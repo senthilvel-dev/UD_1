@@ -27,7 +27,7 @@ s3://udacity-dend/song_data
 s3://udacity-dend/log_data
 ```
 
-Output : ``` s3://sushanth-dend-datalake-parquet-files3 ```
+Output : ``` s3://senthil-datalake-parquet-files3 ```
 
 Below are the steps,  
 * a
@@ -42,7 +42,7 @@ s3://udacity-dend/song_data
 s3://udacity-dend/log_data
 ```
 
-Output : ``` s3://sushanth-dend-datalake-parquet-files3 ```
+Output : ``` s3://senthil-datalake-parquet-files3 ```
 
 Below are the steps,  
 * a
